@@ -2,7 +2,7 @@
 #place link of the website without index.html
 #eg: http://xyz.com/index.html is the website you want to clone
 #put the base URL as http://xyz.com
-baseurl = 'Replace this'
+baseurl = 'https://orteil.dashnet.org/cookieclicker/'
 
 from bs4 import BeautifulSoup
 import os
